@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    max-width: 75%;
+    margin: 0 auto;
+}
+
+.main-menu {
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 20px 0;
+}
+
+.main-menu a {
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+
+main p {
+    text-align: justify;
+}
+
+.avatar {
+    height: 200px;
+    text-align: center;
+    margin: 2rem 0;
+    background-image: url("Images/cool-background.png");
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.avatar img {
+    height: 80%;
+    margin: 1rem;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 40px 0;
+    margin-top: 2rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.py-5 {
+    padding-bottom: 2rem;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.btn {
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+    border: 2px dashed gray;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    transition: color 0.2s, border-bottom-color 0.2s;
+    color: darkgray;
+    border-color: darkgray;
+}
+
+.contact-me-btn {
+
+}
