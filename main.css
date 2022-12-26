@@ -6,7 +6,7 @@ body {
 .header {
     background-color: black;
     color: white;
-    background-image: url("./images/background.jpg");
+    background-image: url("images/background.jpg");
     background-size: cover;
 }
 
@@ -50,7 +50,7 @@ main p {
     height: 200px;
     text-align: center;
     margin: 2rem 0;
-    background-image: url("Images/cool-background.png");
+    background-image: url("images/cool-background.png");
     background-size: 700px;
     background-repeat: no-repeat;
     background-position: center;
@@ -77,7 +77,7 @@ table {
     min-width: 550px;
     background-size: cover;
     background-color: rgb(0, 0, 0);
-    background-image: url(./images/background.jpg);
+    background-image: url(images/background.jpg);
     color: rgb(255, 255, 255);
     padding: 40px 0;
     margin-top: 2rem;
